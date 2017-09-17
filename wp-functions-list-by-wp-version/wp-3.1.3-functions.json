@@ -1,0 +1,8 @@
+{
+    "Definitions": [
+        "is_protected_meta",
+        "sanitize_meta",
+        "sanitize_mime_type",
+        "send_frame_options_header"
+    ]
+}

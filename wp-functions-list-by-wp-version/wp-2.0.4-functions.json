@@ -1,0 +1,19 @@
+{
+    "Definitions": [
+        "force_balance_tags",
+        "js_escape",
+        "sanitize_comment_cookies",
+        "setup_userdata",
+        "wp_check_filetype",
+        "wp_die",
+        "wp_explain_nonce",
+        "wp_get_current_commenter",
+        "wp_get_original_referer",
+        "wp_get_referer",
+        "wp_nonce_ays",
+        "wp_nonce_field",
+        "wp_nonce_url",
+        "wp_original_referer_field",
+        "wp_referer_field"
+    ]
+}

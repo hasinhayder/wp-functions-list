@@ -1,0 +1,29 @@
+{
+    "Definitions": [
+        "_count_posts_cache_key",
+        "attachment_id3_data_meta_box",
+        "current_action",
+        "doing_action",
+        "doing_filter",
+        "get_network_by_path",
+        "get_site_by_path",
+        "get_the_permalink",
+        "has_image_size",
+        "heartbeat_autosave",
+        "remove_image_size",
+        "wp_ajax_query_themes",
+        "wp_ajax_update_widget",
+        "wp_autosave",
+        "wp_get_attachment_id3_keys",
+        "wp_get_network",
+        "wp_maybe_generate_attachment_metadata",
+        "wp_normalize_path",
+        "wp_playlist_scripts",
+        "wp_playlist_shortcode",
+        "wp_register_plugin_realpath",
+        "wp_underscore_audio_template",
+        "wp_underscore_playlist_templates",
+        "wp_underscore_video_template",
+        "wp_validate_logged_in_cookie"
+    ]
+}

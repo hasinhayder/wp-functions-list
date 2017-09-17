@@ -1,0 +1,14 @@
+{
+    "Definitions": [
+        "add_user_to_blog",
+        "create_empty_blog",
+        "get_active_blog_for_user",
+        "get_admin_users_for_domain",
+        "get_blog_id_from_url",
+        "get_blog_permalink",
+        "get_blog_post",
+        "get_sitestats",
+        "is_user_member_of_blog",
+        "remove_user_from_blog"
+    ]
+}

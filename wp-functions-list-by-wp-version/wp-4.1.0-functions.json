@@ -1,0 +1,24 @@
+{
+    "Definitions": [
+        "_navigation_markup",
+        "_wp_json_convert_string",
+        "_wp_json_sanity_check",
+        "_wp_render_title_tag",
+        "get_the_archive_description",
+        "get_the_archive_title",
+        "get_the_post_navigation",
+        "get_the_posts_navigation",
+        "get_the_posts_pagination",
+        "network_settings_add_js",
+        "the_archive_description",
+        "the_archive_title",
+        "the_post_navigation",
+        "the_posts_navigation",
+        "the_posts_pagination",
+        "wp_ajax_destroy_sessions",
+        "wp_clean_update_cache",
+        "wp_get_password_hint",
+        "wp_json_encode",
+        "wp_print_revision_templates"
+    ]
+}

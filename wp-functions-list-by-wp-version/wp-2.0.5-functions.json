@@ -1,0 +1,9 @@
+{
+    "Definitions": [
+        "get_user_to_edit",
+        "is_serialized",
+        "is_serialized_string",
+        "maybe_serialize",
+        "sanitize_option"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Definitions": [
+        "get_theme_update_available",
+        "upgrade_380",
+        "wp_admin_bar_sidebar_toggle",
+        "wp_ajax_save_user_color_scheme",
+        "wp_dashboard_primary_output",
+        "wp_dashboard_quick_press",
+        "wp_dashboard_recent_comments",
+        "wp_dashboard_recent_posts",
+        "wp_dashboard_site_activity",
+        "wp_heartbeat_set_suspension",
+        "wp_prepare_themes_for_js",
+        "wp_star_rating"
+    ]
+}

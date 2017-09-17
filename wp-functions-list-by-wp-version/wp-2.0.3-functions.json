@@ -1,0 +1,11 @@
+{
+    "Definitions": [
+        "check_ajax_referer",
+        "wp_create_nonce",
+        "wp_get_cookie_login",
+        "wp_get_current_user",
+        "wp_hash",
+        "wp_set_current_user",
+        "wp_verify_nonce"
+    ]
+}

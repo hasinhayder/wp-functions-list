@@ -1,0 +1,11 @@
+{
+    "Definitions": [
+        "do_shortcodes_in_html_tags",
+        "unescape_invalid_shortcodes",
+        "wp_kses_attr_check",
+        "wp_kses_attr_parse",
+        "wp_kses_hair_parse",
+        "wp_kses_one_attr",
+        "wp_replace_in_html_tags"
+    ]
+}

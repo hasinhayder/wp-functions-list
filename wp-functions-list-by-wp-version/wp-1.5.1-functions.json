@@ -1,0 +1,19 @@
+{
+    "Definitions": [
+        "__get_option",
+        "ent2ncr",
+        "get_bloginfo_rss",
+        "get_category",
+        "get_page",
+        "get_page_children",
+        "get_post",
+        "get_the_category_list",
+        "is_admin",
+        "update_page_cache",
+        "update_post_cache",
+        "wp_footer",
+        "wp_get_http_headers",
+        "wp_redirect",
+        "wp_remote_fopen"
+    ]
+}

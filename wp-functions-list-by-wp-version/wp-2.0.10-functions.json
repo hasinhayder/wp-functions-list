@@ -1,0 +1,6 @@
+{
+    "Definitions": [
+        "get_next_posts_page_link",
+        "get_previous_posts_page_link"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Definitions": [
+        "_deep_replace",
+        "safecss_filter_attr",
+        "wp_validate_redirect"
+    ]
+}
