@@ -1,0 +1,3 @@
+_wp_expand_nav_menu_post_data
+array_replace_recursive
+wp_filter_pre_oembed_result

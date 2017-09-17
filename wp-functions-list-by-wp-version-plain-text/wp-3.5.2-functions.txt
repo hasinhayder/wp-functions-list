@@ -1,0 +1,1 @@
+wp_http_validate_url

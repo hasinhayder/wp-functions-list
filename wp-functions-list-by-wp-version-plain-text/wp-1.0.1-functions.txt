@@ -1,0 +1,16 @@
+add_clean_index
+allowed_tags
+comments_rss_link
+drop_index
+get_linkobjects
+get_linkobjectsbyname
+get_linkrating
+get_links_list
+start_wp
+upgrade_101
+upgrade_all
+wp_get_links
+wp_get_linksbyname
+wp_get_post_cats
+wp_set_post_cats
+xfn_check

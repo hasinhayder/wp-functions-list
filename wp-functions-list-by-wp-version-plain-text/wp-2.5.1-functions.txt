@@ -1,0 +1,3 @@
+sanitize_sql_orderby
+wp_category_checklist
+wp_link_category_checklist

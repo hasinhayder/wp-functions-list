@@ -1,0 +1,3 @@
+_upgrade_422_find_genericons_files_in_folder
+_upgrade_422_remove_genericons
+_wp_can_use_pcre_u

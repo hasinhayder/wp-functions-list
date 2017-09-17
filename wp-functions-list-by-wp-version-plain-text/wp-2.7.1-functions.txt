@@ -1,0 +1,2 @@
+get_next_comments_link
+get_previous_comments_link

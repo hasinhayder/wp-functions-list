@@ -1,0 +1,3 @@
+_wp_specialchars
+htmlentities2
+wp_login

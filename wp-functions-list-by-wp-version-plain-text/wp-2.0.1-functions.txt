@@ -1,0 +1,3 @@
+set_current_user
+validate_username
+wp_mkdir_p
