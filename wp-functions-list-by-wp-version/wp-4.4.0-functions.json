@@ -100,6 +100,7 @@
         "wp_make_content_images_responsive",
         "wp_maybe_decline_date",
         "wp_new_comment_notify_moderator",
+        "wp_new_comment_notify_postauthor"
         "wp_oembed_add_discovery_links",
         "wp_oembed_add_host_js",
         "wp_oembed_ensure_format",

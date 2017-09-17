@@ -12721,11 +12721,6 @@
       "Deprecated": "No"
     },
     {
-      "Name": "wp_new_comment_notify_postauthor",
-      "Since": "4.4.0\nUses",
-      "Deprecated": "No"
-    },
-    {
       "Name": "wp_new_user_notification",
       "Since": "2.0.0",
       "Deprecated": "No"
