@@ -1592,7 +1592,7 @@
     },
     {
       "Name": "add_user_to_blog",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -2252,7 +2252,7 @@
     },
     {
       "Name": "create_empty_blog",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "4.4.0"
     },
     {
@@ -3062,7 +3062,7 @@
     },
     {
       "Name": "get_active_blog_for_user",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -3097,7 +3097,7 @@
     },
     {
       "Name": "get_admin_users_for_domain",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "4.4.0"
     },
     {
@@ -3307,7 +3307,7 @@
     },
     {
       "Name": "get_blog_id_from_url",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -3322,12 +3322,12 @@
     },
     {
       "Name": "get_blog_permalink",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
       "Name": "get_blog_post",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -4897,7 +4897,7 @@
     },
     {
       "Name": "get_sitestats",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -6432,7 +6432,7 @@
     },
     {
       "Name": "is_user_member_of_blog",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -7927,7 +7927,7 @@
     },
     {
       "Name": "remove_user_from_blog",
-      "Since": "3.0.0)",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
@@ -11892,7 +11892,7 @@
     },
     {
       "Name": "wp_get_shortlink",
-      "Since": "3.0.0.",
+      "Since": "3.0.0",
       "Deprecated": "No"
     },
     {
