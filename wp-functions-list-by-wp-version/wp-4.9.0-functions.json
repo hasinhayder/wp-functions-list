@@ -11,6 +11,7 @@
         "wp_map_nav_menu_locations",
         "wp_maybe_grant_install_languages_cap",
         "wp_network_admin_email_change_notification",
+        "wp_new_comment_notify_postauthor"
         "wp_site_admin_email_change_notification",
         "wp_unschedule_hook"
     ]
